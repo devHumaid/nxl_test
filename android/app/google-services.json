@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787238039511",
+    "project_id": "nxl-flutter-app",
+    "storage_bucket": "nxl-flutter-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787238039511:android:30f03a50701b203b4aa592",
+        "android_client_info": {
+          "package_name": "com.example.nxl_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLWnTJnC3Ey73ofJ5pKRx6MI_kYip695s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
